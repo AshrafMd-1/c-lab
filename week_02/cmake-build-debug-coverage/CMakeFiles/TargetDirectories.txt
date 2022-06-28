@@ -1,3 +1,0 @@
-D:/02_AshrafWorkArea/Applications/C Language/lab_worksheet/week_02/cmake-build-debug-coverage/CMakeFiles/week_02.dir
-D:/02_AshrafWorkArea/Applications/C Language/lab_worksheet/week_02/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
-D:/02_AshrafWorkArea/Applications/C Language/lab_worksheet/week_02/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
